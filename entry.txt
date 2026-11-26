@@ -1,0 +1,1 @@
+My smart lock updated its firmware at midnight, locked me out, then emailed me a password reset link I couldn't open because my phone was inside.
